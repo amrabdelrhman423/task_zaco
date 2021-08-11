@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="792" viewBox="0 0 375 792">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_25035" data-name="Path 25035" d="M0,0H375V-792H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_20752" data-name="Group 20752" transform="translate(0 792)" clip-path="url(#clip-path)">
+    <g id="Group_20749" data-name="Group 20749" transform="translate(21 -15)">
+      <text id="Grocery" transform="translate(0 7)" fill="#949494" font-size="7" font-family="Poppins-Regular, Poppins" letter-spacing="0.029em"><tspan x="0" y="0">Grocery</tspan></text>
+    </g>
+    <g id="Group_20750" data-name="Group 20750" transform="translate(331 -40)">
+      <path id="Path_25033" data-name="Path 25033" d="M19.25,0H2.75A2.907,2.907,0,0,0,0,2.742V14.469A2.535,2.535,0,0,0,2.539,17H19.461A2.535,2.535,0,0,0,22,14.469V2.657A2.835,2.835,0,0,0,19.25,0Z" fill="none" stroke="#d93e11" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <g id="Group_20751" data-name="Group 20751" transform="translate(331 -45)">
+      <path id="Path_25034" data-name="Path 25034" d="M17,3.82V1.989C17,.164,16.618-.362,14.422.235,12.809.674,3.372,3.372,3.372,3.372.465,4.5.022,5.464.022,7.655L0,9" fill="none" stroke="#d93e11" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
